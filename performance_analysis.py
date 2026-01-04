@@ -5,7 +5,8 @@ count = 0
 
 for mark in marks:
     total += mark
-    count += 1
+
+count = len(marks)
 
 average = total / count
 
