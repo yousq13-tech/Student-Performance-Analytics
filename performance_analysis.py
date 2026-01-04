@@ -1,5 +1,5 @@
 marks = [50, 55, 58]
-threshold = 60
+threshold = 65
 total = 0
 count = 0
 
